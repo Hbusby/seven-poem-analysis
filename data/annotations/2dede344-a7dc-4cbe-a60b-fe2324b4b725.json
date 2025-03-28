@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 75,
-      "end_time": 80,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Then, say you'll remember me standing in a nice dress"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "b0305a1a-e724-4d71-a947-23afeb54afaa"
-    },
-    {
       "start_time": 81,
       "end_time": 84,
       "annotation": [
