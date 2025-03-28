@@ -1414,31 +1414,6 @@
       "uuid": "2d3e8560-8262-4db1-84be-403c146d4aca"
     },
     {
-      "start_time": 118,
-      "end_time": 120,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Laugh while speaking "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Pitch",
-          "category": "Performance"
-        },
-        {
-          "tag": "Timbre",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "912b4928-ba80-4614-a4d4-aa4c34e4c13b"
-    },
-    {
       "start_time": 49,
       "end_time": 52,
       "annotation": [
