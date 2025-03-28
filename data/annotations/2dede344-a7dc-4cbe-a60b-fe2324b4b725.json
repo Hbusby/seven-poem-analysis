@@ -572,12 +572,12 @@
           "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "timbre"
-        },
-        {
           "tag": "Context",
           "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
         }
       ],
       "uuid": "197efe17-21d6-4b36-802b-bfd0e43c0148"
