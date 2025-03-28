@@ -30,31 +30,6 @@
       "uuid": "68201e1e-a2ec-4c6f-b1bd-cbc85d219274"
     },
     {
-      "start_time": 86,
-      "end_time": 92,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Or you could begin at the beginning"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "0ad127f8-780e-445a-aa65-997f2a65b381"
-    },
-    {
       "start_time": 92,
       "end_time": 95,
       "annotation": [
