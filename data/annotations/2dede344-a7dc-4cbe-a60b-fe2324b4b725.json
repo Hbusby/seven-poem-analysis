@@ -80,31 +80,6 @@
       "uuid": "1e33f4a0-8885-4fa6-bbf8-5aff7e33612c"
     },
     {
-      "start_time": 154,
-      "end_time": 157,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Your braids make a pattern"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "pitch"
-        }
-      ],
-      "uuid": "e3c42dcc-e8c1-496c-9c4a-7ada4fe312b3"
-    },
-    {
       "start_time": 158,
       "end_time": 161,
       "annotation": [
