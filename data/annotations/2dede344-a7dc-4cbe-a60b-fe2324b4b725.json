@@ -869,27 +869,6 @@
       "uuid": "72a5fdb2-8c6f-4075-94e0-75b4ab29e0fd"
     },
     {
-      "start_time": 49,
-      "end_time": 52,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Bells"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "a5ce8af7-ff0b-48ac-8f24-bb93e35d73cf"
-    },
-    {
       "start_time": 58,
       "end_time": 61,
       "annotation": [
