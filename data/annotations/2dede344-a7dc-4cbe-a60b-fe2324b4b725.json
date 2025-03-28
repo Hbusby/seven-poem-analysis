@@ -55,31 +55,6 @@
       "uuid": "7bd10d81-b158-4923-8ead-0f922a513da2"
     },
     {
-      "start_time": 142,
-      "end_time": 146,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Cross your heart, won't tell no other"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "5c4bbf29-114b-4451-be1a-e204c4bfa66e"
-    },
-    {
       "start_time": 146,
       "end_time": 151,
       "annotation": [
