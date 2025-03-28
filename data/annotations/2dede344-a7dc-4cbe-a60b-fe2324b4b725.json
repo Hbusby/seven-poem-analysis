@@ -55,31 +55,6 @@
       "uuid": "7bd10d81-b158-4923-8ead-0f922a513da2"
     },
     {
-      "start_time": 139,
-      "end_time": 141,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Sweet tea in the summer"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "fd089f92-68aa-4fc3-8d63-59f648673647"
-    },
-    {
       "start_time": 142,
       "end_time": 146,
       "annotation": [
