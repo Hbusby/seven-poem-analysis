@@ -844,27 +844,6 @@
       "uuid": "72a5fdb2-8c6f-4075-94e0-75b4ab29e0fd"
     },
     {
-      "start_time": 63,
-      "end_time": 70,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Bar chimes "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "79d8cf4b-9667-4885-aa1c-fbbe34320a7c"
-    },
-    {
       "start_time": 4080,
       "end_time": 70,
       "annotation": [
