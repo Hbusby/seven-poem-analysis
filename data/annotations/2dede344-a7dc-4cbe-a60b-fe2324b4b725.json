@@ -369,27 +369,6 @@
       "uuid": "72a5fdb2-8c6f-4075-94e0-75b4ab29e0fd"
     },
     {
-      "start_time": 4080,
-      "end_time": 70,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Echo"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "76b78270-d355-4668-ba29-d24efdb44104"
-    },
-    {
       "start_time": 143,
       "end_time": 145,
       "annotation": [
