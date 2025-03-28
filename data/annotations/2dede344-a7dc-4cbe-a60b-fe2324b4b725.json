@@ -1084,31 +1084,6 @@
       "uuid": "6da6f57f-804d-4b31-bb2c-848503fa27cb"
     },
     {
-      "start_time": 157,
-      "end_time": 161,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Pattern/Saturn rhyme  "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Rhyme",
-          "category": "Form"
-        },
-        {
-          "tag": "Verse Structure",
-          "category": "Form"
-        }
-      ],
-      "uuid": "5af8b0c3-f3f0-485c-a0c7-1f907ba1dd49"
-    },
-    {
       "start_time": 141,
       "end_time": 146,
       "annotation": [
