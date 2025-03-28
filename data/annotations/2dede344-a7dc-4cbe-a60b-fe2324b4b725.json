@@ -904,31 +904,6 @@
       "uuid": "23f977ae-a3b6-4911-a12a-3acdbde6bab9"
     },
     {
-      "start_time": 127,
-      "end_time": 128,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "With Pennsylvania under me"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "7815536c-2bf3-4853-9016-8af9cb4ebac2"
-    },
-    {
       "start_time": 133,
       "end_time": 137,
       "annotation": [
