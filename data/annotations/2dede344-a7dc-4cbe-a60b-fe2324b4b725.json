@@ -55,31 +55,6 @@
       "uuid": "7bd10d81-b158-4923-8ead-0f922a513da2"
     },
     {
-      "start_time": 146,
-      "end_time": 151,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "And though I can't recall your face, I still got love for you"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "1e33f4a0-8885-4fa6-bbf8-5aff7e33612c"
-    },
-    {
       "start_time": 158,
       "end_time": 161,
       "annotation": [
