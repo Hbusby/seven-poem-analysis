@@ -30,31 +30,6 @@
       "uuid": "68201e1e-a2ec-4c6f-b1bd-cbc85d219274"
     },
     {
-      "start_time": 99,
-      "end_time": 102,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Please picture me in the trees"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "90135c13-77bb-4c20-9910-eeff3d5a3f95"
-    },
-    {
       "start_time": 105,
       "end_time": 108,
       "annotation": [
