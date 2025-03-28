@@ -1013,31 +1013,6 @@
       "uuid": "3a385a56-b746-40af-a897-1a8b72430552"
     },
     {
-      "start_time": 169,
-      "end_time": 171,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "songs/long rhyme"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Rhyme",
-          "category": "Form"
-        },
-        {
-          "tag": "Verse Structure",
-          "category": "Form"
-        }
-      ],
-      "uuid": "90cdeaa3-441c-4fe0-bd33-88ed0ce21958"
-    },
-    {
       "start_time": 92,
       "end_time": 178,
       "annotation": [
