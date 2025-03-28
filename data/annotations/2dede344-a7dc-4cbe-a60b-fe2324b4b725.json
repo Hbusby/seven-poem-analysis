@@ -105,43 +105,6 @@
       "uuid": "471ced84-9eb8-4945-9f58-c2bd35555ee0"
     },
     {
-      "start_time": 171,
-      "end_time": 177,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The love lasts so long"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "duration"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "tempo"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "pitch"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "amplitude"
-        }
-      ],
-      "uuid": "ab7d6e6f-6748-48c6-b5d8-51a49a98549a"
-    },
-    {
       "start_time": 72,
       "end_time": 75,
       "annotation": [
