@@ -30,35 +30,6 @@
       "uuid": "68201e1e-a2ec-4c6f-b1bd-cbc85d219274"
     },
     {
-      "start_time": 105,
-      "end_time": 108,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I hit my peak at seven"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "timbre"
-        },
-        {
-          "tag": "Context",
-          "category": "Background"
-        }
-      ],
-      "uuid": "896bd269-419e-4af1-91a2-8e8d51c61343"
-    },
-    {
       "start_time": 111,
       "end_time": 115,
       "annotation": [
