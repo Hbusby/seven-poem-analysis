@@ -1008,35 +1008,6 @@
       "uuid": "3f885027-6c23-4d3c-819a-05bcd271b245"
     },
     {
-      "start_time": 81,
-      "end_time": 84,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Staring at the sunset"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Amplitude",
-          "category": "Performance"
-        },
-        {
-          "tag": "Pitch",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "5e7f1986-2d64-4bc1-aa9d-95fed9f13faa"
-    },
-    {
       "start_time": 86,
       "end_time": 92,
       "annotation": [
