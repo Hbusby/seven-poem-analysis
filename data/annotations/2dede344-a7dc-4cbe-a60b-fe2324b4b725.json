@@ -517,31 +517,6 @@
       "uuid": "ab7d6e6f-6748-48c6-b5d8-51a49a98549a"
     },
     {
-      "start_time": 0,
-      "end_time": 3960,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "calming musical introduction"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "15246de8-93de-4d10-b7b7-52cd173b8b5c"
-    },
-    {
       "start_time": 72,
       "end_time": 75,
       "annotation": [
