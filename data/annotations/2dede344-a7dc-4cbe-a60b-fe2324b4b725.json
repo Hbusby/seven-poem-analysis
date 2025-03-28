@@ -105,31 +105,6 @@
       "uuid": "471ced84-9eb8-4945-9f58-c2bd35555ee0"
     },
     {
-      "start_time": 164,
-      "end_time": 169,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Passed down like folk songs"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "e93b3181-d2e9-4280-b99c-135cbbc52751"
-    },
-    {
       "start_time": 171,
       "end_time": 177,
       "annotation": [
