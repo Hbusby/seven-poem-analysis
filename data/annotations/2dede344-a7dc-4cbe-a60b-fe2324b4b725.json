@@ -1602,27 +1602,6 @@
       "uuid": "6da6f57f-804d-4b31-bb2c-848503fa27cb"
     },
     {
-      "start_time": 86,
-      "end_time": 87,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Tonal Shift"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "a88e9535-388b-49c5-a8ac-dbfa94a8150b"
-    },
-    {
       "start_time": 157,
       "end_time": 161,
       "annotation": [
