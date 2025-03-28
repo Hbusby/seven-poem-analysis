@@ -30,31 +30,6 @@
       "uuid": "68201e1e-a2ec-4c6f-b1bd-cbc85d219274"
     },
     {
-      "start_time": 92,
-      "end_time": 95,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "And in that case"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "e455b2f0-5681-4da4-a83d-d1fff3313903"
-    },
-    {
       "start_time": 99,
       "end_time": 102,
       "annotation": [
