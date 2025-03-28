@@ -30,31 +30,6 @@
       "uuid": "68201e1e-a2ec-4c6f-b1bd-cbc85d219274"
     },
     {
-      "start_time": 118,
-      "end_time": 120,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I was too scared to jump in"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "76e268d8-b9f1-4563-94f4-2628c6ac3304"
-    },
-    {
       "start_time": 120,
       "end_time": 126,
       "annotation": [
