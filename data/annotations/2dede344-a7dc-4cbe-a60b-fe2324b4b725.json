@@ -875,31 +875,6 @@
       "uuid": "4376f9a0-8081-4510-a8ac-9ca1fce98b99"
     },
     {
-      "start_time": 158,
-      "end_time": 161,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Love you to the Moon and to Saturn"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "pitch"
-        }
-      ],
-      "uuid": "f8772178-77ac-4f87-bc83-62d0825a7c9f"
-    },
-    {
       "start_time": 164,
       "end_time": 169,
       "annotation": [
