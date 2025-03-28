@@ -1327,27 +1327,6 @@
       "uuid": "6cec5dfd-1394-457a-ad51-d1c553b0992d"
     },
     {
-      "start_time": 143,
-      "end_time": 145,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "crowd noises "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Audience Sounds",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "d8dfc909-63c3-46f7-b7c2-260f9be7350d"
-    },
-    {
       "start_time": 92,
       "end_time": 96,
       "annotation": [
