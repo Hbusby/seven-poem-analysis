@@ -428,22 +428,6 @@
       "uuid": "c73299d3-8240-4f40-a570-2354389b5b4f"
     },
     {
-      "start_time": 5,
-      "end_time": 3601,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Seven interlude poem"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "8c5d0240-a9a1-41a1-9a24-88266e0a9c4f"
-    },
-    {
       "start_time": 67,
       "end_time": 72,
       "annotation": [
