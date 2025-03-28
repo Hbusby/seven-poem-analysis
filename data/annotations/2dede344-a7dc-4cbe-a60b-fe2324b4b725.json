@@ -1789,27 +1789,6 @@
         }
       ],
       "uuid": "ab10b406-7c35-483f-b52d-4dc0786ebc33"
-    },
-    {
-      "start_time": 99,
-      "end_time": 102,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Shift in deliveey from casual to dramatic speak"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Meter",
-          "category": "Form"
-        }
-      ],
-      "uuid": "b4161abb-f555-49b7-a0fd-eafcd6031ff8"
     }
   ],
   "set": "Default",
