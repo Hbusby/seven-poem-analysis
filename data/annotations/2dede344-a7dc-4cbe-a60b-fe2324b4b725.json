@@ -431,31 +431,6 @@
       "uuid": "17f9ac2c-c549-4bfa-ab77-0aea53ea902b"
     },
     {
-      "start_time": 141,
-      "end_time": 146,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "summer/other rhyme  "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Rhyme",
-          "category": "Form"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "f05313ca-5d15-4a8c-a981-6283f3faafa4"
-    },
-    {
       "start_time": 169,
       "end_time": 171,
       "annotation": [
