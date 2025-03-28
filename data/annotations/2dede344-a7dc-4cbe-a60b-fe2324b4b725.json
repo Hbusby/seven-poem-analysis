@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 67,
-      "end_time": 72,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "If you wish to romanticize the woman I became"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": ""
-        }
-      ],
-      "uuid": "98e8b5c8-7a13-4452-a004-42a996979c8e"
-    },
-    {
       "start_time": 75,
       "end_time": 80,
       "annotation": [
