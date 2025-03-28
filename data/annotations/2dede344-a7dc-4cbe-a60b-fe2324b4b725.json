@@ -1121,27 +1121,6 @@
         }
       ],
       "uuid": "ade34e0d-d112-4c18-afde-b4abecbb26c3"
-    },
-    {
-      "start_time": 92,
-      "end_time": 95,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Natural Speak"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Meter",
-          "category": "Form"
-        }
-      ],
-      "uuid": "ab10b406-7c35-483f-b52d-4dc0786ebc33"
     }
   ],
   "set": "Default",
