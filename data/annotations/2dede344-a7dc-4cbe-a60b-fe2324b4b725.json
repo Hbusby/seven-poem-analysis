@@ -30,31 +30,6 @@
       "uuid": "68201e1e-a2ec-4c6f-b1bd-cbc85d219274"
     },
     {
-      "start_time": 111,
-      "end_time": 115,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Feet in the swing over the creek"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "amplitude"
-        }
-      ],
-      "uuid": "d08666d1-ab74-4bbd-af78-76ef27131acd"
-    },
-    {
       "start_time": 118,
       "end_time": 120,
       "annotation": [
