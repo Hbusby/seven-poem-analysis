@@ -723,27 +723,6 @@
       "uuid": "a6be991c-537a-499a-bc22-6ce4d64ab594"
     },
     {
-      "start_time": 92,
-      "end_time": 178,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Nature sound effects"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Ambient Noise",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "01da7e0a-2345-430a-a7cf-b6917b4c7dfd"
-    },
-    {
       "start_time": 118,
       "end_time": 120,
       "annotation": [
