@@ -55,31 +55,6 @@
       "uuid": "7bd10d81-b158-4923-8ead-0f922a513da2"
     },
     {
-      "start_time": 133,
-      "end_time": 137,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Are there still beautiful things?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "tempo"
-        }
-      ],
-      "uuid": "501dcb9f-5303-4c10-9996-cea0bfa5b6e3"
-    },
-    {
       "start_time": 139,
       "end_time": 141,
       "annotation": [
