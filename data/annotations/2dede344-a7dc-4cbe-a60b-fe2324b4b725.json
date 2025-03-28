@@ -992,27 +992,6 @@
       "uuid": "80dc6acc-9b2d-4188-b0c5-3b0cac234ab2"
     },
     {
-      "start_time": 161,
-      "end_time": 164,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Pause"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Caesura",
-          "category": "Form"
-        }
-      ],
-      "uuid": "94046f69-6fb2-4180-b0a1-a3bf433401e6"
-    },
-    {
       "start_time": 169,
       "end_time": 171,
       "annotation": [
