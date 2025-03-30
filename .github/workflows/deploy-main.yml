@@ -32,11 +32,24 @@ jobs:
         with:
           repository: AVAnnotate/project-client
           path: "./client"
-          ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
+          ref: ${{ vars.PROJECT_CLIENT_BRANCH || 'main' }}
 
-      - name: npm install
+      - name: Install dependencies
         working-directory: "./client"
-        run: npm install
+        run: |
+          if [ -f ./client/package-lock.json ]; then
+            echo "LOCKFILE=package-lock.json" >> $GITHUB_ENV
+            npm install
+          elif [ -f ./client/yarn.lock ]; then
+            echo "LOCKFILE=yarn.lock" >> $GITHUB_ENV
+            yarn install
+          elif [ -f ./client/bun.lockb ]; then
+            echo "LOCKFILE=bun.lockb" >> $GITHUB_ENV
+            bun install
+          else
+            echo "No lockfile found. Please specify your preferred \"package-manager\" in the action configuration."
+            exit 1
+          fi
 
       - name: Ensure a content directory
         run: mkdir -p "./client/src/content"
